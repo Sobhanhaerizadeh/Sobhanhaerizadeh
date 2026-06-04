@@ -1,11 +1,14 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
+<img width="200" height="300" alt="sobidev" src="https://github.com/user-attachments/assets/bcfb49e7-2440-4fa7-abdd-2f23dbd4a798" />
+<br><br>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&weight=800&size=34&duration=3000&pause=700&color=C6FF3A&center=true&width=435&lines=Sobhan.dev;Web+Developer;Backend+Developer;Frontend+Developer;Programmer)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://t.me/sobidevbot"><img src="https://img.shields.io/badge/Telegram%20Bot-Open-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0b0d" alt="telegram bot" /></a>
-  <a href="https://sobhanhaerizadeh.de"><img src="https://img.shields.io/badge/Portfolio-sobhanhaerizadeh.de-c6ff3a?style=for-the-badge&logo=firefox&logoColor=black&labelColor=0b0b0d" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/sobhanhaerizadeh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b0d" alt="linkedin" /></a>
+<a href="https://sobhan.dev"><img src="https://img.shields.io/badge/Portfolio-sobhan.dev-c6ff3a?style=for-the-badge&logo=firefox&logoColor=black&labelColor=0b0b0d" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/sobhanhaerizadeh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0b0d" alt="linkedin" /></a>
 </p>
 
 </div>
@@ -84,16 +87,6 @@ const sobhan = {
 | ⏳ **Countdown Timer** | Set a date and watch the time tick down to your big moment | [Code](https://github.com/Sobhanhaerizadeh/countdown-timer) |
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SobhanHaerizadeh&bg_color=0b0b0d&color=ededf0&line=c6ff3a&point=c6ff3a&area=true&hide_border=false&border_color=26262d" alt="activity graph" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -102,7 +95,7 @@ const sobhan = {
 <a href="https://www.linkedin.com/in/sobhanhaerizadeh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="mailto:sobhanhaerizade@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
-<br><br>
+<br>
 
 <i>💚 "Just a Programmer" </i>
 
