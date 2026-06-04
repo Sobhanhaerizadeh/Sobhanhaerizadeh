@@ -80,8 +80,8 @@ const sobhan = {
 | 🧠 **GitHub Portfolio Analyzer** | Real-time GitHub profile analysis via the GitHub API | [Live](https://sobhanhaerizadeh.de/projekte/github-portfolio-analyzer/) · [Code](https://github.com/Sobhanhaerizadeh/github-portfolio-analyzer) |
 | 🌐 **IP-Lookup Tool** | Server monitoring with a FastAPI backend & React frontend | [Live](https://sobhanhaerizadeh.de/projekte/IP-Lookup/) · [Code](https://github.com/Sobhanhaerizadeh/IP_Lookup) |
 | 🦠 **COVID-19 Tracker** | Live COVID data dashboard with charts | [Live](https://sobhanhaerizadeh.de/projekte/covid/) · [Code](https://github.com/Sobhanhaerizadeh/COVID-19) |
-| ✍️ **PHP Blog System** | Self-built blog with PHP & MySQL | [Code](https://github.com/SobhanHaerizadeh) |
-| 🤖 **Portfolio Chatbot** | AI chatbot that answers questions about my portfolio | [Code](https://github.com/SobhanHaerizadeh) |
+| ✍️ **PHP Blog System** | Self-built blog with PHP & MySQL | [Code](https://github.com/Sobhanhaerizadeh/PHP-Blog-Project) |
+| 🤖 **Portfolio Chatbot** | AI chatbot that answers questions about my portfolio | [Code](https://github.com/Sobhanhaerizadeh/portfolio-chatbot) |
 | 🔁 **Relay Tasks** | A team task board where everyone owns their stage and passes it forward | [Code](https://github.com/Sobhanhaerizadeh/relay-tasks) |
 | 🎲 **Würfelspiel (Dice Game)** | Roll the dice and challenge a friend | [Code](https://github.com/Sobhanhaerizadeh/wuerfelspiel) |
 | ⏳ **Countdown Timer** | Set a date and watch the time tick down to your big moment | [Code](https://github.com/Sobhanhaerizadeh/countdown-timer) |
