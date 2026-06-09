@@ -1,6 +1,7 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
-<img width="200" height="300" alt="sobidev" src="https://github.com/user-attachments/assets/bcfb49e7-2440-4fa7-abdd-2f23dbd4a798" />
+<img width="1672" height="941" alt="sobhandev" src="https://github.com/user-attachments/assets/ce5cfbc2-82ed-4cca-b538-d544787f71df" />
+
 <br><br>
 
 
@@ -13,26 +14,23 @@
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
-```js
+```ts
 const sobhan = {
   name: "Sobhan Haerizadeh",
   age: 22,
   location: "📍 Germany 🇩🇪",
-  role: "💼 Apprentice IT Specialist (Application Development) ",
-  focus: ["C#", ".NET 8", "Blazor", "Web", "APIs"],
-  languages: ["Persian 🟢", "Deutsch (C1) 🟡", "English (B2) 🔵"],
+  role: "💼 Apprentice IT Specialist (Application Development)",
+  focus: ["TypeScript", "JavaScript", "Web Development", "APIs", "C#"],
+  languages: ["Persian", "Deutsch (C1)", "English (B2)"],
 };
 ```
 
-- 🔭 Currently working with **C#, .NET 8, Blazor Server, ABP Framework & EF Core**
-- 🌱 Diving deeper into **clean architecture, REST APIs & modern web tech**
-- ⚡ I love **clean code**, solving problems 🧩 and learning something new every day 📚
-
----
+- 🔭 Currently working with **TypeScript, JavaScript** and **.NET / Blazor** on the job
+- 🌱 Diving deeper into **modern web development**, clean architecture & REST APIs
+- ⚡ Passionate about **clean code**, elegant solutions 🧩 and picking up something new every day 📚
+--- 
 
 ## 🛠️ Tech Stack
 
