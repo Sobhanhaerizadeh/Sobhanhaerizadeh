@@ -83,6 +83,8 @@ const sobhan = {
 | 🔁 **Relay Tasks** | A team task board where everyone owns their stage and passes it forward | [Code](https://github.com/Sobhanhaerizadeh/relay-tasks) |
 | 🎲 **Würfelspiel (Dice Game)** | Roll the dice and challenge a friend | [Code](https://github.com/Sobhanhaerizadeh/wuerfelspiel) |
 | ⏳ **Countdown Timer** | Set a date and watch the time tick down to your big moment | [Code](https://github.com/Sobhanhaerizadeh/countdown-timer) |
+| 🌐 **IP Calculator** | Enter an IP address with CIDR and instantly see the network, broadcast address, host range & subnet mask | [Code](https://github.com/Sobhanhaerizadeh/ip-calculator) |
+| 🌤️ **Weather App** | A modern weather application built with React, TypeScript & Vite | [Code](https://github.com/Sobhanhaerizadeh/weather-app) |
 ---
 
 ## 🤝 Let's Connect
