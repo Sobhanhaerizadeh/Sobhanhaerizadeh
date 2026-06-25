@@ -85,6 +85,8 @@ const sobhan = {
 | ⏳ **Countdown Timer** | Set a date and watch the time tick down to your big moment | [Code](https://github.com/Sobhanhaerizadeh/countdown-timer) |
 | 🌐 **IP Calculator** | Enter an IP address with CIDR and instantly see the network, broadcast address, host range & subnet mask | [Code](https://github.com/Sobhanhaerizadeh/ip-calculator) |
 | 🌤️ **Weather App** | A modern weather application built with React, TypeScript & Vite | [Code](https://github.com/Sobhanhaerizadeh/weather-app) |
+| ⚡ **Reflex Rush** | Wait for green, then click as fast as you can — a React & TypeScript reaction test | [Code](https://github.com/Sobhanhaerizadeh/reflex-rush) |
+
 ---
 
 ## 🤝 Let's Connect
